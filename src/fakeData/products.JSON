@@ -2,6 +2,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Boots",
+    "category_id": "sports",
     "name": "ADIZERO CLEATS",
     "seller": "Addidas",
     "price": 100,
@@ -15,6 +16,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Jersey",
+    "category_id": "sports",
     "name": "ARGENTINA 22 WINNERS HOME JERSEY",
     "seller": "Addidas",
     "price": 90,
@@ -28,6 +30,7 @@
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "ULTRABOOST 22 SHOES",
     "seller": "Addidas",
     "price": 420,
@@ -41,6 +44,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Football",
+    "category_id": "sports",
     "name": "AL RIHLA PRO BALL",
     "seller": "Addidas",
     "price": 99,
@@ -55,6 +59,7 @@
     "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
     "category": "Men's Sneaker",
     "name": "LUNAR NEW YEAR ULTRABOOST DNA SHOES",
+    "category_id": "shoe",
     "seller": "Addidas",
     "price": 196,
     "stock": 19,
@@ -67,6 +72,7 @@
   {
     "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "SUPERNOVA SHOES",
     "seller": "Addidas",
     "price": 245,
@@ -80,6 +86,7 @@
   {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "LITE RACER ADAPT 3.0 SHOES",
     "seller": "Addidas",
     "price": 229,
@@ -93,6 +100,7 @@
   {
     "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "4DFWD SHOES",
     "seller": "Addidas",
     "price": 287,
@@ -106,6 +114,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Football",
+    "category_id": "sports",
     "name": "AL RIHLA TRAINING HOLOGRAM FOIL BALL",
     "seller": "Addidas",
     "price": 101,
@@ -119,6 +128,7 @@
   {
     "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "KAPTIR 2.0 SHOES",
     "seller": "Addidas",
     "price": 138,
@@ -132,6 +142,7 @@
   {
     "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "4DFWD PULSE SHOES",
     "seller": "Addidas",
     "price": 226,
@@ -145,6 +156,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Boots",
+    "category_id": "sports",
     "name": "X SPEEDPORTAL.3 FIRM GROUND SOCCER CLEATS",
     "seller": "Addidas",
     "price": 121,
@@ -171,6 +183,7 @@
   {
     "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "ZX 1K BOOST SHOES",
     "seller": "Addidas",
     "price": 319,
@@ -184,6 +197,7 @@
   {
     "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "NMD_R1 V2 SHOES",
     "seller": "Addidas",
     "price": 260,
@@ -197,6 +211,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Hats",
+    "category_id": "hat",
     "name": "RUNNER 5P AEROREADY REFLECTIVE X-CITY CAP",
     "seller": "Addidas",
     "price": 30,
@@ -210,6 +225,7 @@
   {
     "id": "ac44095f-230e-4502-8816-dea3eaae8320",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "NMD_R1 PRIMEBLUE SHOES",
     "seller": "Addidas",
     "price": 437,
@@ -301,6 +317,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Boots",
+    "category_id": "sports",
     "name": "PREDATOR EDGE.2 FIRM GROUND SOCCER CLEATS",
     "seller": "Addidas",
     "price": 119,
@@ -392,6 +409,7 @@
   {
     "id": "0298e695-1f9b-49b1-9961-8a8460f95b1c",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX FREE HIKER GORE-TEX HIKING SHOES",
     "seller": "Addidas",
     "price": 132,
@@ -405,6 +423,7 @@
   {
     "id": "3cfe9adc-c27f-4be4-a859-a5c98ce88a27",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX AX4 MID GORE-TEX HIKING SHOES",
     "seller": "Addidas",
     "price": 111,
@@ -418,6 +437,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Boots",
+    "category_id": "sports",
     "name": "X SPEEDPORTAL.3 FIRM GROUND SOCCER CLEATS",
     "seller": "Addidas",
     "price": 999,
@@ -431,6 +451,7 @@
   {
     "id": "6602468a-a3a8-4c2c-9d3a-fd54e2c5daf7",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "RESPONSE 3MC ADV BOOTS",
     "seller": "Addidas",
     "price": 104,
@@ -444,6 +465,7 @@
   {
     "id": "5db3ee2f-2eb7-4764-942d-894f72198e86",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TACTICAL LEXICON ADV BOOTS",
     "seller": "Addidas",
     "price": 151,
@@ -457,6 +479,7 @@
   {
     "id": "9b169efb-0966-40f3-b9c2-79b16cb96388",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "Superstar Boots",
     "seller": "Addidas",
     "price": 151,
@@ -470,6 +493,7 @@
   {
     "id": "fb1f9913-d903-498c-9e4a-16d363aa2eba",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TACTICAL LEXICON ADV BOOTS",
     "seller": "Addidas",
     "price": 199,
@@ -483,6 +507,7 @@
   {
     "id": "fe48e340-4dc9-44b3-911b-9308b4f530b3",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX TRAILMAKER MID COLD.RDY HIKING SHOES",
     "seller": "Addidas",
     "price": 110,
@@ -495,7 +520,8 @@
   },
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
-    "category": "Backpack",
+    "category": "Bag",
+    "category_id": "bag",
     "name": "NATIONAL BAG",
     "seller": "Addidas",
     "price": 111,
@@ -509,6 +535,7 @@
   {
     "id": "2e06fa90-2961-4867-8322-6fdcca2f086a",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX FREE HIKER GORE-TEX HIKING SHOES",
     "seller": "Addidas",
     "price": 155,
@@ -522,6 +549,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Shoes",
+    "category_id": "shoe",
     "name": "COMFORT FLIP-FLOPS",
     "seller": "Addidas",
     "price": 50,
@@ -535,6 +563,7 @@
   {
     "id": "008c06dd-04e4-4923-b840-927bd6b4c2de",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX AGRAVIC TECH PRO TRAIL RUNNING SHOES",
     "seller": "Addidas",
     "price": 118,
@@ -548,6 +577,7 @@
   {
     "id": "b4d83415-d20a-4bba-8629-22b2780b6e93",
     "category": "Men's Boot",
+    "category_id": "shoe",
     "name": "TERREX FREE HIKER COLD.RDY HIKING BOOTS",
     "seller": "Addidas",
     "price": 169,
@@ -561,6 +591,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Boots",
+    "category_id": "sports",
     "name": "X SPEEDPORTAL LEYENDA.1 FIRM GROUND SOCCER CLEATS",
     "seller": "Addidas",
     "price": 111,
@@ -574,6 +605,7 @@
   {
     "id": "1d54fd83-83df-42f8-ae2b-f5ef9d4987ea",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "MOVE FEELREADY SPORT TEE",
     "seller": "Addidas",
     "price": 14,
@@ -587,6 +619,7 @@
   {
     "id": "1ce97e0e-3611-4406-8788-7b413640f59e",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "ADIDAS CAMO BOX GRAPHIC TEE",
     "seller": "Addidas",
     "price": 16,
@@ -600,6 +633,7 @@
   {
     "id": "f088beb8-d664-4166-99f8-6995c2f08465",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "ADICOLOR CLASSICS TREFOIL TEE",
     "seller": "Addidas",
     "price": 20,
@@ -613,6 +647,7 @@
   {
     "id": "26dd7da8-c854-4bab-aaf5-32cc964da2ec",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "LNY TREFOIL FILL TEE",
     "seller": "Addidas",
     "price": 16,
@@ -626,6 +661,7 @@
   {
     "id": "a2615943-7eeb-4d6a-ab1b-78fb51ce39da",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "CREATOR 365 TEE",
     "seller": "Addidas",
     "price": 34,
@@ -639,6 +675,7 @@
   {
     "id": "27cf3efa-7352-4889-85c4-44a4de2aa93a",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "OWN THE RUN LONG SLEEVE TEE",
     "seller": "Addidas",
     "price": 23,
@@ -652,6 +689,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Jersey",
+    "category_id": "sports",
     "name": "MEXICO 22 AWAY JERSEY",
     "seller": "Addidas",
     "price": 190,
@@ -665,6 +703,7 @@
   {
     "id": "6add9d60-1339-4115-b2ac-00d4886f4ad7",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "NYC BADGE OF SPORT LOGO GRAPHIC TEE",
     "seller": "Addidas",
     "price": 29,
@@ -691,6 +730,7 @@
   {
     "id": "1b6f1af1-2103-4838-932d-2b98dfdb6c1f",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "RUNNER TEE",
     "seller": "Addidas",
     "price": 20,
@@ -704,6 +744,7 @@
   {
     "id": "c6cb80a7-3542-4270-bd2b-920efd5f3f85",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "V-DAY TEE (GENDER NEUTRAL)",
     "seller": "Addidas",
     "price": 18,
@@ -717,6 +758,7 @@
   {
     "id": "f54a4763-b8c2-4922-ba8d-80652a64f5bc",
     "category": "Men's Sneaker",
+    "category_id": "shoe",
     "name": "ESSENTIALS COLORBLOCK TEE",
     "seller": "Addidas",
     "price": 35,
@@ -730,6 +772,7 @@
   {
     "id": "4a0090e7-b65d-4f6e-a42b-5603a3f51883",
     "category": "Bag",
+    "category_id": "bag",
     "name": "3-Stripes Backpack 2.0",
     "seller": "Addidas",
     "price": 74,
@@ -743,6 +786,7 @@
   {
     "id": "0ac76ee7-53f1-45ba-b5ca-81ff6063bc1a",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Trefoil Backpack",
     "seller": "Addidas",
     "price": 65,
@@ -756,6 +800,7 @@
   {
     "id": "1770549a-571b-4baf-bc58-7bae7a228dcb",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Santiago Lunch Bag",
     "seller": "Addidas",
     "price": 63,
@@ -768,7 +813,8 @@
   },
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
-    "category": "Boots",
+    "category": "Bag",
+    "category_id": "bag",
     "name": "NATIONAL BAG",
     "seller": "Addidas",
     "price": 111,
@@ -782,6 +828,7 @@
   {
     "id": "24b20ba6-9024-4b0a-b8a9-cf937521cede",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Blue Version Backpack",
     "seller": "Addidas",
     "price": 87,
@@ -795,6 +842,7 @@
   {
     "id": "a7231186-0316-4cc0-94bf-4f496a382346",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Defender Backpack",
     "seller": "Addidas",
     "price": 96,
@@ -808,6 +856,7 @@
   {
     "id": "35ac57f9-870a-4299-aac8-e5d8d2716b31",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Excel Backpack",
     "seller": "Addidas",
     "price": 62,
@@ -821,6 +870,7 @@
   {
     "id": "c50bebaf-2633-4674-aba2-25be34bfdbba",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Alliance Sackpack",
     "seller": "Addidas",
     "price": 99,
@@ -834,6 +884,7 @@
   {
     "id": "ff5bf372-7ed1-4904-aac5-7a2ce98e70ef",
     "category": "Bag",
+    "category_id": "bag",
     "name": "R.Y.V. Toploader Backpack",
     "seller": "Addidas",
     "price": 56,
@@ -847,6 +898,7 @@
   {
     "id": "83ef9902-0224-48d3-ba7c-eeff3e678d13",
     "category": "Bag",
+    "category_id": "bag",
     "name": "Adicolor Archive Backpack",
     "seller": "Addidas",
     "price": 84,
@@ -860,6 +912,7 @@
   {
     "id": "7490b4c8-8242-4de5-b161-b8ac96ea0e0b",
     "category": "Bag",
+    "category_id": "bag",
     "name": "R.Y.V. Backpack",
     "seller": "Addidas",
     "price": 67,
@@ -873,6 +926,7 @@
   {
     "id": "b1872b25-ba91-48ed-9468-1822df0637b9",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Relaxed Strap-Back Hat",
     "seller": "Addidas",
     "price": 30,
@@ -886,6 +940,7 @@
   {
     "id": "ea028038-4e9d-42bf-b033-88aa5e6cc477",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Icon Snapback Hat",
     "seller": "Addidas",
     "price": 21,
@@ -899,6 +954,7 @@
   {
     "id": "d48e0fcb-904c-499e-93a0-312d77e6dbf9",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Superlite Hat",
     "seller": "Addidas",
     "price": 11,
@@ -912,6 +968,7 @@
   {
     "id": "71dfc7f9-844b-4be7-816f-891a5cbaa0f1",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Superlite Hat",
     "seller": "Addidas",
     "price": 10,
@@ -925,6 +982,7 @@
   {
     "id": "a9d89eac-7418-4bca-a484-c8238c356270",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Tee Time 5-Panel Hat",
     "seller": "Addidas",
     "price": 24,
@@ -938,6 +996,7 @@
   {
     "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Baseball Cap",
     "seller": "Addidas",
     "price": 17,
@@ -951,6 +1010,7 @@
   {
     "id": "625b4b60-611c-490c-ac0a-f3c2d2afd05c",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Relaxed Strap-Back Hat",
     "seller": "Addidas",
     "price": 24,
@@ -964,6 +1024,7 @@
   {
     "id": "5960bf40-9603-4a39-9ff6-6cf9f1ce4815",
     "category": "Cap",
+    "category_id": "cap",
     "name": "UNISEX ORIGINALS WASHED BUCKET",
     "seller": "Addidas",
     "price": 27,
@@ -977,6 +1038,7 @@
   {
     "id": "5991add1-f4ba-4fb9-9b6b-ec59aa2dda60",
     "category": "Cap",
+    "category_id": "cap",
     "name": "SST Plus Strap-Back Hat",
     "seller": "Addidas",
     "price": 23,
@@ -990,6 +1052,7 @@
   {
     "id": "5690e579-a943-4b42-9ffe-dfc65b71c560",
     "category": "Cap",
+    "category_id": "cap",
     "name": "Dispatch Trucker Hat",
     "seller": "Addidas",
     "price": 28,
@@ -1003,6 +1066,7 @@
   {
     "id": "be7a4d0a-c681-416c-ab8d-f9be28223f4e",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "adidas Z.N.E. 01 True Wireless Earbuds",
     "seller": "Addidas",
     "price": 142,
@@ -1016,6 +1080,7 @@
   {
     "id": "b278e667-ca17-465c-b603-af1af4319b7b",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
     "seller": "Addidas",
     "price": 135,
@@ -1029,6 +1094,7 @@
   {
     "id": "1f56c0e5-4407-44bf-9225-90f592d2924a",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "FWD-01 Sport In-Ear Headphones",
     "seller": "Addidas",
     "price": 185,
@@ -1042,6 +1108,7 @@
   {
     "id": "4ead4708-68e8-4a93-b28e-5e99ccc4d75c",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "adidas FWD-02 Sport True Wireless Earbuds",
     "seller": "Addidas",
     "price": 162,
@@ -1055,6 +1122,7 @@
   {
     "id": "d1116075-10f2-49c4-985e-0d41e19ce1b3",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
     "seller": "Addidas",
     "price": 110,
@@ -1068,6 +1136,7 @@
   {
     "id": "d1116075-10f2-49c4-985e-fg41e19dc1b8",
     "category": "Earphones",
+    "category_id": "earphone",
     "name": "RPT-01 Sport On-Ear Headphones",
     "seller": "Addidas",
     "price": 170,
@@ -1081,6 +1150,7 @@
   {
     "id": "9e7cda87-8160-458f-bd32-ecf253a2d86a",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 1L",
     "seller": "Addidas",
     "price": 33,
@@ -1094,6 +1164,7 @@
   {
     "id": "eaff8921-f7eb-446f-b072-d96559685de0",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 1L",
     "seller": "Addidas",
     "price": 40,
@@ -1107,6 +1178,7 @@
   {
     "id": "96fd22a5-f22f-4ad8-b7b5-f1cfd0852553",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 1 L",
     "seller": "Addidas",
     "price": 46,
@@ -1120,6 +1192,7 @@
   {
     "id": "e1a7c529-f91b-4ef5-a661-c2317c5c314e",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 1L",
     "seller": "Addidas",
     "price": 20,
@@ -1133,6 +1206,7 @@
   {
     "id": "e912ad01-2551-48dc-a709-4054cbfbcbbc",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 600 ML",
     "seller": "Addidas",
     "price": 43,
@@ -1146,6 +1220,7 @@
   {
     "id": "afc5d640-9943-437a-b644-ba1f6f12baa9",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Straw Metal Bottle 600 ML",
     "seller": "Addidas",
     "price": 43,
@@ -1159,6 +1234,7 @@
   {
     "id": "5b5c43d9-950d-4b9a-b7d9-ca489224a7b2",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 600 ML",
     "seller": "Addidas",
     "price": 26,
@@ -1172,6 +1248,7 @@
   {
     "id": "96239c09-8b1c-4c81-99f9-f43e7613eab3",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Squad Glass Bottle 720 ML",
     "seller": "Addidas",
     "price": 39,
@@ -1185,6 +1262,7 @@
   {
     "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Bottle 600 ML",
     "seller": "Addidas",
     "price": 23,
@@ -1198,6 +1276,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "Steel Metal Bottle 2L",
     "seller": "Addidas",
     "price": 37,
@@ -1212,6 +1291,7 @@
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Jersey",
     "name": "GERMANY 22 AWAY JERSEY",
+    "category_id": "sports",
     "seller": "Addidas",
     "price": 90,
     "stock": 69,
@@ -1236,7 +1316,8 @@
   },
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
-    "category": "Backpack",
+    "category": "Bag",
+    "category_id": "bag",
     "name": "NATIONAL BAG",
     "seller": "Addidas",
     "price": 111,
@@ -1289,6 +1370,7 @@
   {
     "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
     "category": "Bottle",
+    "category_id": "bottle",
     "name": "ADIDAS X CLASSIC LEGO® 0.75 L STEEL BOTTLE",
     "seller": "Addidas",
     "price": 50,
